@@ -1,0 +1,16 @@
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\bin\Debug\net6.0-windows\NewsLinker.exe
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\bin\Debug\net6.0-windows\NewsLinker.deps.json
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\bin\Debug\net6.0-windows\NewsLinker.runtimeconfig.json
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\bin\Debug\net6.0-windows\NewsLinker.dll
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\bin\Debug\net6.0-windows\NewsLinker.pdb
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.AssemblyInfoInputs.cache
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.AssemblyInfo.cs
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.csproj.CoreCompileInputs.cache
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.dll
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\refint\NewsLinker.dll
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.pdb
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.genruntimeconfig.cache
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\ref\NewsLinker.dll
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.Form1.resources
+C:\Users\amrinder\Source\Repos\NewsLinker\NewsLinker\obj\Debug\net6.0-windows\NewsLinker.csproj.GenerateResource.cache
